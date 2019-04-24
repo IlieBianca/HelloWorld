@@ -79,7 +79,7 @@ public class DebugAcademie {
 //1.Vreau sa se printeze nr care sunt in ambele liste
 
 
-        }
         System.out.println(max);
-    }
+        }
+
 }
