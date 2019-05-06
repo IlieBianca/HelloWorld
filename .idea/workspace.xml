@@ -198,9 +198,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex18">
-    <configuration name="Ex14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex14" />
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -236,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Ex18" />
         <item itemvalue="Application.Ex17" />
         <item itemvalue="Application.Ex16" />
         <item itemvalue="Application.Ex15" />
-        <item itemvalue="Application.Ex14" />
       </list>
     </recent_temporary>
   </component>
