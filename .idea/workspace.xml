@@ -128,14 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex5">
-    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex6">
     <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex3" />
       <module name="HelloWorld" />
@@ -157,6 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HelloWorld" />
@@ -166,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex6" />
         <item itemvalue="Application.Ex5" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Ex4" />
         <item itemvalue="Application.Ex3" />
-        <item itemvalue="Application.Ex2" />
       </list>
     </recent_temporary>
   </component>
