@@ -5,7 +5,7 @@ public class Test1 {
     private int varsta;
 
     public Test1(){
-
+gi
     }
 
     public Test1(int newVarsta){
